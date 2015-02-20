@@ -154,7 +154,7 @@ namespace CelestialCharter
             s.ToolTip = "#VAL Doge at #VALX";
 
             s.MarkerSize = 3;
-            s.MarkerColor = Color.DarkBlue;
+            s.MarkerColor = Color.Red;
             s.MarkerStyle = MarkerStyle.Circle;
 
             foreach (Transaction tx in stacked)
